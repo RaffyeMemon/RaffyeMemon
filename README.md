@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="auto" src="https://github.com/RaffyeMemon/Muhammad-Raffye/blob/main/img/muhammad-raffye.png?raw=true" alt="Header">
+  <img width="auto" src="https://github.com/RaffyeMemon/RaffyeMemon/blob/main/img/muhammad-raffye-banner.png?raw=true" alt="Header">
 </p>
 
 <h3 align="center">
@@ -18,7 +18,7 @@ Senior Systems Administrator & DevOps Engineer. Over 14 years of experience in a
 ---
 <p align="center">
   <a href="https://www.upwork.com/freelancers/raffyememon">
-  <img width="auto" src="https://github.com/RaffyeMemon/Muhammad-Raffye/blob/main/img/muhammad-raffye-banner.png" alt="HireMe">
+  <img width="auto" src="https://github.com/RaffyeMemon/RaffyeMemon/blob/main/img/muhammad-raffye-banner.png" alt="HireMe">
   </a>
   </br>
 </p>
