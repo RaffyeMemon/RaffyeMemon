@@ -14,11 +14,3 @@ Senior Systems Administrator & DevOps Engineer. Over 14 years of experience in a
 - 🥇 UpWork Top Rated Developer
 </p>
 
-
----
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/raffyememon">
-  <img width="auto" src="https://github.com/RaffyeMemon/RaffyeMemon/blob/main/img/muhammad-raffye-banner.png?raw=true" alt="HireMe">
-  </a>
-  </br>
-</p>
